@@ -1,0 +1,16 @@
+{
+  "name": "filestreambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "telegram": "^2.26.16"
+  }
+}
